@@ -1,0 +1,17 @@
+git config --global user.name "amar1146"
+
+git config --global user.email "its.amar114715@gmail.com"
+
+
+
+
+
+
+git commit -m "first commit// this is just the commit"
+
+
+
+git add <filename>
+git commit -m <commit comments>
+git push 
+git push -u origin master
